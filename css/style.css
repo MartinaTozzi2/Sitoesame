@@ -161,7 +161,9 @@ p { font-family: 'Thasadith', sans-serif !important;
   width: 100%;
   background-color: #f8f9fa!important;
   color: black;
-  text-align: center;
-  font-family: 'Thasadith', sans-serif;
-		font-size: 30px;
+  text-align: center !important;
+  font-family: 'Thasadith', sans-serif !important;
+	font-size: 30px !important;
 }
+
+body {margin: auto auto 20% auto !important} 
