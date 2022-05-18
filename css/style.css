@@ -1,0 +1,161 @@
+h1 {
+	text-align: right;
+	font-family: 'Poiret One', cursive !important;
+	padding: 5%  }
+h2 {
+	text-align: center;
+	font-family: 'Poiret One', cursive !important;
+
+}
+h3 { text-align: center;
+	font-family: 'Poiret One', cursive !important;
+	font-size: 2.2em !important;
+	margin: 3% auto 2% auto !important
+	}
+#h3about {text-align: left;
+		font-family: 'Poiret One', cursive !important;
+		margin: auto 5% 5% 5% !important;
+		
+}
+#h3about2 {text-align: left;
+		font-family: 'Poiret One', cursive !important;
+		margin: auto 5% 5% 5% !important}
+	
+h4 { text-align: center;
+	font-family: 'Poiret One', cursive !important;
+	font-size: 2em !important;}
+h5 { text-align: center;
+	font-family: 'Poiret One', cursive !important;
+	font-size: 1.75em !important;}
+
+#bodyindex {height: 100vh;
+			background: url(../img/chitarra.png) no-repeat center;
+			background-color: transparent;
+			 }
+
+#sottotitolo {
+	text-align: right;
+	font-size: 30px;
+	font-family: 'Thasadith', sans-serif;
+	margin: auto 5% auto 50%;
+}
+#provami {
+		text-align: right;
+		font-size: 30px;
+		font-style: italic;
+		font-family: 'Thasadith', sans-serif;
+		margin: auto 5% auto 50%
+		}
+
+#buttonwym {
+		text-align: right !important;
+		font-family: 'Thasadith', sans-serif;
+		padding: auto 10%;
+		margin: auto 5% auto 80%
+	}
+#footer1 {text-align: center;
+		font-family: 'Thasadith', sans-serif;
+		font-size: 40px;
+		background-color: #f8f9fa!important}
+#footerhtml {margin: 10% 10% 0px 10%}
+
+.fa-brands:hover {
+    opacity: 0.5;
+    color: black;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+
+}
+.fa-instagram {
+  background: hotpink;
+  color: white;
+}
+
+
+
+.cardtitle { font-family: 'Amatic SC', cursive;
+			text-align: center;
+			}
+p { font-family: 'Thasadith', sans-serif !important;
+	font-size: 15px;
+	font-weight:
+}
+#card1 {background-color: #9ecdff;
+		text-align: center;}
+#button1 {background-color: #007bff !important}
+#card2 { background-color: #fcc6f2;
+		text-align: center;}
+#button2 {background-color: #ef09c4 !important}
+#card3 { background-color: #fce6a6;
+		text-align: center;}
+#button3 {background-color: #ffc107 !important}
+#card4 {background-color: black !important;}
+#card41 {background-color: #ff00831f !important;
+		color: black !important }
+#button41 {background-color: #ff0083}
+#card5 { background-color: #aee4ca;
+		text-align: center; }
+
+#button5 {background-color: #00cd6b;}
+#card6 { background-color: #c7add3;
+		 text-align: center !important; }
+#button6 { background-color: #810db3}
+#card7 {background-color: #e3848d;
+ 		text-align: center; }
+#button7 {background-color: #e30016}
+#card8 { background-color: #410b434d;
+ 		 text-align: center; }
+#button8 { background-color: #410b43 }
+#card9 {background-color: #050da25c;
+ 		text-align: center; }
+#button9 { background-color: #010bca}
+#card10 {background-color: #f8cd96;
+ 		text-align: center;}
+#button10 {background-color:#ec8c10}
+
+#card12 {background-color: #b2005082;
+ 		text-align: center;}
+#button12 {background-color: #b20050}
+#card11 {background-color: black !important;}
+#card13 {background-color: #28c0d894;
+	 	text-align: center !important; }
+#button13 {background-color: #029fb7}
+#card14 {background-color: #5e000073;
+ 		text-align: center; }
+#button14 {background-color: #5e0000}
+#bottoneconsigli {margin: auto 47%}
+
+#form { margin: auto 10% auto 27%}
+#letterina {text-align: center;
+			font-size: 300%;
+			margin: 50px auto 0px auto;}
+
+
+.paboutus {font-family: 'Thasadith', sans-serif;
+			margin: auto 5% }
+.paboutus2 { font-family: 'Thasadith', sans-serif;
+			margin: auto 5%
+}
+
+.pdocumentazione {
+					font-family: 'Thasadith', sans-serif;
+					margin: auto 5%
+}
+#imgmappa {width: 500px;
+			}
+#divarchitettura {text-align: center;
+		margin-bottom: 5%}	
+.imgdoc { 
+		width: 500px}
+.divwire {text-align: center;
+		margin-bottom: 5%}
+
+
+
