@@ -57,7 +57,7 @@ h5 { text-align: center;
 		font-family: 'Thasadith', sans-serif;
 		font-size: 40px;
 		background-color: #f8f9fa!important}
-#footerhtml {margin: 10% 10% 0px 10%}
+
 
 .fa-brands:hover {
     opacity: 0.5;
@@ -157,8 +157,8 @@ p { font-family: 'Thasadith', sans-serif !important;
 .divwire {text-align: center;
 		margin-bottom: 5%}
 
-html,body,.container{ height: 100%; margin: 0; padding: 0; }
-.footer {
+html,body{ height: 100%; margin: 0; padding: 0; }
+footer {
 position:absolute;
 bottom:0;
 left:0;
