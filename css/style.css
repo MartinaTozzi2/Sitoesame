@@ -35,13 +35,13 @@ h5 { text-align: center;
 
 #sottotitolo {
 	text-align: right;
-	font-size: 30px;
+	font-size: 1.8em;
 	font-family: 'Thasadith', sans-serif;
 	margin: auto 5% auto 50%;
 }
 #provami {
 		text-align: right;
-		font-size: 30px;
+		font-size: 1.8em;
 		font-style: italic;
 		font-family: 'Thasadith', sans-serif;
 		margin: auto 5% auto 50%
@@ -81,8 +81,7 @@ h5 { text-align: center;
 			text-align: center;
 			}
 p { font-family: 'Thasadith', sans-serif !important;
-	font-size: 15px;
-	font-weight:
+	font-size: 1em;
 }
 #card1 {background-color: #9ecdff;
 		text-align: center;}
@@ -167,3 +166,6 @@ p { font-family: 'Thasadith', sans-serif !important;
 }
 
 main {margin: auto auto 20% auto !important} 
+.documentazionebuona {font-family: 'Thasadith', sans-serif !important;
+						
+						margin: auto 45%;}
