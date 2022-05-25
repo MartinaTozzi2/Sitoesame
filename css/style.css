@@ -170,3 +170,11 @@ main {margin: auto auto 20% auto !important}
 .documentazionebuona {font-family: 'Thasadith', sans-serif !important;
 						
 						margin: auto 10% ;}
+#fontabout { text-align: center !important;
+	font-family: 'Poiret One', cursive !important;}
+#fontmood {text-align: center !important;
+	font-family: 'Poiret One', cursive !important;
+	padding: 0}
+#fontdoc {text-align: center !important;
+	font-family: 'Poiret One', cursive !important;
+	padding: 0}
